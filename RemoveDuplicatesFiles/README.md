@@ -53,9 +53,9 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 
 ## 📤 Email Setup
 
-  - sender_email = "youremail@gmail.com"
-  -sender_password = "your_app_password"  # Use App Password, NOT regular password
-   
+      - sender_email = "youremail@gmail.com"
+      - sender_password = "your_app_password"  # Use App Password, NOT regular password
+       
   ---
   
 ## ⏰ Schedule Execution
@@ -73,9 +73,9 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 
 ## 📂 Folder Structure
 
- remove_duplicates.py
- Demo/
- ├── MarvellousLog_<timestamp>.log
+- remove_duplicates.py
+- Demo/
+       ├── MarvellousLog_<timestamp>.log
  
  ---
  
