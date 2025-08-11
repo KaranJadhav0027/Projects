@@ -24,30 +24,30 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 
 ## 📌 Example:
 
-python remove_duplicates.py "D:\MyFolder" 10 example@gmail.com
-python remove_duplicates.py --h     # Displays help information
-python remove_duplicates.py --u
+-python remove_duplicates.py "D:\MyFolder" 10 example@gmail.com
+-python remove_duplicates.py --h     # Displays help information
+-python remove_duplicates.py --u
 
 ---
 ## 🆘 Help & Usage Flags
 
-  python remove_duplicates.py --h     # Displays help information
-  python remove_duplicates.py --u     # Shows usage instructions
+  -python remove_duplicates.py --h     # Displays help information
+ - python remove_duplicates.py --u     # Shows usage instructions
   
 ---
 ## 📁 Sample Log Output
 
-  ------------------------------------------------------
-This is a log file of Marvellous Automation Script
-This is a Directory cleaner Script
-------------------------------------------------------
-C:\Users\Example\Documents\duplicate1.txt
-C:\Users\Example\Documents\duplicate2.pdf
-------------------------------------------------------
-Total Execution time is : 0.45678 seconds
-------------------------------------------------------
-File created at : Sun Aug 11 2025 12:45:32
-------------------------------------------------------
+    ------------------------------------------------------
+    This is a log file of Marvellous Automation Script
+    This is a Directory cleaner Script
+    ------------------------------------------------------
+    C:\Users\Example\Documents\duplicate1.txt
+    C:\Users\Example\Documents\duplicate2.pdf
+    ------------------------------------------------------
+    Total Execution time is : 0.45678 seconds
+    ------------------------------------------------------
+    File created at : Sun Aug 11 2025 12:45:32
+    ------------------------------------------------------
 
 ---
 
