@@ -24,16 +24,16 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 
 ## 📌 Example:
 
--python remove_duplicates.py "D:\MyFolder" 10 example@gmail.com
--python remove_duplicates.py --h     # Displays help information
--python remove_duplicates.py --u
+    -python remove_duplicates.py "D:\MyFolder" 10 example@gmail.com
+    -python remove_duplicates.py --h     # Displays help information
+    -python remove_duplicates.py --u
 
 ---
 ## 🆘 Help & Usage Flags
 
-  -python remove_duplicates.py --h     # Displays help information
- - python remove_duplicates.py --u     # Shows usage instructions
-  
+    -python remove_duplicates.py --h     # Displays help information
+    - python remove_duplicates.py --u     # Shows usage instructions
+    
 ---
 ## 📁 Sample Log Output
 
@@ -53,7 +53,7 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 
 ## 📤 Email Setup
 
- - sender_email = "youremail@gmail.com"
+  - sender_email = "youremail@gmail.com"
   -sender_password = "your_app_password"  # Use App Password, NOT regular password
    
   ---
