@@ -44,12 +44,12 @@ This tool is ideal for:
    ```bash
    git clone https://github.com/<your-username>/FilePackerUnpacker.git
    cd FilePackerUnpacker
-2. Compile the Java Program
+2. **Compile the Java Program**
 
         javac FilePackerUnpacker.java
         Run the Application
        
- 3. Run the Application
+ 3. **Run the Application**
    
          java FilePackerUnpacker
 
