@@ -54,18 +54,16 @@ This project is designed with **clean code principles**, **reusability**, and **
 
 ## 📂 Project Structure
 
- System.out.println(
-    "NanoS/\n" +
-    "│── Array.java                  # Array manipulation utilities\n" +
-    "│── GenericLinkedListApp.java   # Generic linked list implementation\n" +
-    "│── GenericStack.java           # Generic stack implementation\n" +
-    "│── GeneriQueue.java            # Generic queue implementation\n" +
-    "│── GenericTree.java            # Generic tree implementation\n" +
-    "│── StringOperationsApp.java    # String manipulation utilities\n" +
-    "│── VirtualFileSystem.java      # CLI-based virtual file system\n" +
-    "│── LinkedListInterface.java    # Interface for linked list operations\n" +
-    "│── MainApp.java                 # Central application entry point"
-);
+-NanoS/
+  │── Array.java                  # Array manipulation utilities.
+  │── GenericLinkedListApp.java   # Generic linked list implementation.
+  │── GenericStack.java           # Generic stack implementation.
+  │── GeneriQueue.java            # Generic queue implementation.
+  │── GenericTree.java            # Generic tree implementation.
+  │── StringOperationsApp.java    # String manipulation utilities.
+  │── VirtualFileSystem.java      # CLI-based virtual file system.
+  │── LinkedListInterface.java    # Interface for linked list operations.
+  │── MainApp.java                 # Central application entry point.
 
 ---
 
