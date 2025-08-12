@@ -54,6 +54,7 @@ This project is designed with **clean code principles**, **reusability**, and **
 
 ## 📂 Project Structure
 
+<details> <summary>Markdown format</summary>
   NanoS/
   │── Array.java # Array manipulation utilities
   │── GenericLinkedListApp.java # Generic linked list implementation
@@ -64,7 +65,7 @@ This project is designed with **clean code principles**, **reusability**, and **
   │── VirtualFileSystem.java # CLI-based virtual file system
   │── LinkedListInterface.java # Interface for linked list operations
   │── MainApp.java # Central application entry point
-
+</details>
 ---
 
 ## ⚙️ Installation & Setup
