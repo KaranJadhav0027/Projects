@@ -49,7 +49,7 @@ This tool is ideal for:
         javac FilePackerUnpacker.java
         Run the Application
        
-3.Run the Application
+ 3.Run the Application
    
     java FilePackerUnpacker
 
