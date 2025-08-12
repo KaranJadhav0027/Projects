@@ -74,7 +74,7 @@ python remove_duplicates.py <DirectoryPath> <TimeInMinutes> <ReceiverEmail>
 ## 📂 Folder Structure
 
 - remove_duplicates.py
-- Demo/
+- Demo/<br>
        ├── MarvellousLog_<timestamp>.log
  
  ---
