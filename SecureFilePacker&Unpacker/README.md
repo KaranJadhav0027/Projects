@@ -49,9 +49,9 @@ This tool is ideal for:
         javac FilePackerUnpacker.java
         Run the Application
        
- 3.Run the Application
+ 3. Run the Application
    
-    java FilePackerUnpacker
+         java FilePackerUnpacker
 
   ---
 ## 📖 Usage
@@ -72,14 +72,14 @@ This tool is ideal for:
 ---
 
 ## 🧪 Example
-Packing:
+## Packing:
 
     Packed file gets successfully created with the name: archive.pck
     Directory is successfully opened for the packing activity
     File packed: notes.txt
     File packed: image.jpg
     
-Unpacking:
+## Unpacking:
 
     Unpacking started...
     Extracted: notes.txt
