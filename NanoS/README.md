@@ -55,15 +55,15 @@ This project is designed with **clean code principles**, **reusability**, and **
 ## 📂 Project Structure
 
  NanoS/
-        │── Array.java # Array manipulation utilities
-        │── GenericLinkedListApp.java # Generic linked list implementation
-        │── GenericStack.java # Generic stack implementation
-        │── GeneriQueue.java # Generic queue implementation
-        │── GenericTree.java # Generic tree implementation
-        │── StringOperationsApp.java # String manipulation utilities
-        │── VirtualFileSystem.java # CLI-based virtual file system
-        │── LinkedListInterface.java # Interface for linked list operations
-        │── MainApp.java # Central application entry point
+      │── Array.java # Array manipulation utilities
+      │── GenericLinkedListApp.java # Generic linked list implementation
+      │── GenericStack.java # Generic stack implementation
+      │── GeneriQueue.java # Generic queue implementation
+      │── GenericTree.java # Generic tree implementation
+      │── StringOperationsApp.java # String manipulation utilities
+      │── VirtualFileSystem.java # CLI-based virtual file system
+      │── LinkedListInterface.java # Interface for linked list operations
+      │── MainApp.java # Central application entry point
 
 ---
 
@@ -93,7 +93,7 @@ This project is designed with **clean code principles**, **reusability**, and **
        
   - Follow the CLI prompts or use the man command in VFS to get detailed instructions.
     ```bash
-      > man CreateFile
+    > man CreateFile
     NAME
         CreateFile – Creates a new file in the VFS.
     USAGE
