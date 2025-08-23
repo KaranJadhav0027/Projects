@@ -47,7 +47,7 @@ Each linked list type supports the following operations:
 
 <pre>
    GenericStandardLibrary/
-│── GenericStandardLibrary.cpp # Implementation of Generic Linked List Library
+                          │── GenericStandardLibrary.cpp # Implementation of Generic Linked List Library
 </pre>
 
 ---
