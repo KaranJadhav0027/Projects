@@ -83,7 +83,7 @@ The `Array` class includes more than **30 array functions**, such as:
 ---
 ## 🧪 Example Output
 
-       Max: 30
+    Max: 30
     Min: 10
     Sum: 90
     Palindrome: true
