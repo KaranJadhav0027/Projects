@@ -52,16 +52,13 @@ This project is designed to **strengthen OS concepts**, **system programming ski
 ---
 
 ## ⚙️ Installation & Setup
-1. **Clone the Repository**
-  
-       git clone https://github.com/<your-username>/CustomisedVirtualFileSystem.git
-       cd CustomisedVirtualFileSystem
 
-2. **Compile the Program**
+
+1. **Compile the Program**
 
        g++ CustomisedVirtualFileSystem.CPP -o vfs
    
-3. **Run the Program**
+2. **Run the Program**
 
         ./vfs
 ---
