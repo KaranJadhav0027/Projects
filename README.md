@@ -105,5 +105,5 @@ It reflects my ability to design, implement, and document **scalable and reusabl
 ## 👨‍💻 Author
 **Karan Jadhav**  
   - Developer | Data Structures Enthusiast | System Design Learner
-   [📧] (karanjadhav0027@gmail.com)
+  - [📧] (karanjadhav0027@gmail.com)
 
