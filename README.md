@@ -25,6 +25,7 @@ The projects demonstrate:
             │── FilePackerUnpacker/ # File archiving and restoration utility (Java)
             │── GenericStandardLibrary/ # Template-based Linked List library (C++)
             │── ClientServerChatAWT/ # AWT-based Client-Server chat application (Java)
+            |──  System Process Logger with Scheduling / # # One-time System Process Logger (Python) 
             │── README.md # Main portfolio overview (this file)
 </pre>
 
@@ -75,10 +76,14 @@ The projects demonstrate:
 
 ### 💬 [Client-Server Chat (AWT, Java)](./ClientServerChatAWT)
 - A **socket-based client-server chat app** with **AWT GUI**.  
-- Supports **real-time communication** using multi-threading.  
-
+- Supports **real-time communication** using multi-threading.
 ---
 
+### 🖥️ ProcMon Process Logger (Python)
+  - Scans all running system processes and logs details like PID, Name, User, VMS.
+  - Generates timestamped log files for auditing or monitoring.
+  - Designed with future support for scheduling and automation.
+ ---
 ## 🛠️ Tech Stack
 - **Languages:** Java, C++  
 - **Concepts Used:**  
